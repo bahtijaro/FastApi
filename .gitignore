@@ -1,3 +1,9 @@
+# JetBrains IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
 # Файлы окружения
 .env
 .env/
