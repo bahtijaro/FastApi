@@ -6,3 +6,4 @@ SQLAlchemy==2.0.40
 aiosqlite==0.21.0
 python-jose==3.4.0
 passlib==1.7.4
+pylint==3.3.6
